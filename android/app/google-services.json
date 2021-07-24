@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479388453595",
+    "project_id": "baby-names-app-db-a79be",
+    "storage_bucket": "baby-names-app-db-a79be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479388453595:android:0da57df174c3ac96b11afe",
+        "android_client_info": {
+          "package_name": "com.LertaSolutions.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479388453595-8cqsj92lmkouj5pg826cjemsanujl7ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmD3bjVXZcXPfd2M31zZYOHk4DzU8x1QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479388453595-8cqsj92lmkouj5pg826cjemsanujl7ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
